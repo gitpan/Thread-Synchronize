@@ -1,0 +1,2 @@
+Add support for "method" attribute also: this would allow the same method to
+be only run once for the same shared object.
